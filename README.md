@@ -1,14 +1,14 @@
-# Class Based Components - React Todo
+# Class Based Components - React Todo.
 
 We are going to practice building class components with this project. Even though function components and hooks have become the standard among React developers, class components are going to be around for a long time. It's important that you get used to class components, and feel comfortable working with them since you'll most likely encounter them when you are hired to work on a React app.
 
-## Skills You Will Practice
+## Skills You Will Practice.
 
 - Creating class-components from scratch
 - Storing state in the top-level component, and sharing it with descendant components via props
 - Handling form-related events like `change` and `submit`
 
-## Introduction
+## Introduction.
 
 In this project you will build an application that allows for todos to be added, completed and removed from view. This application should:
 
